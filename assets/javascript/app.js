@@ -1,2 +1,5 @@
-var basicCard = require("basicCard");
-var closeCard = require("closeCard");
+var basicCard = require("./basicCard");
+var closeCard = require("./closeCard");
+
+basicCard();
+closeCard();
